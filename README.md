@@ -55,10 +55,9 @@ SQL        ████████░░░░░░░░░░░░  em prog
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaop-werner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaop-werner&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaop-werner&layout=compact&langs_count=8&theme=dracula&hide="/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaop-werner&theme=dracula&area=true&hide_border=true" alt="Activity Graph">
 </p>
