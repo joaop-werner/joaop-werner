@@ -64,7 +64,7 @@ SQL        ████████░░░░░░░░░░░░  em prog
 
 ---
 
-## 📫 Vamos nos conectar!
+## 📫 Minhas redes!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-w-2ba0a73b3/" target="_blank">
