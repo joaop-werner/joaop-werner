@@ -23,6 +23,7 @@ HTML       ██████████████████░░  em prog
 CSS        ██████████████████░░  em progresso
 JavaScript ██████████████░░░░░░  em progresso
 SQL        ████████░░░░░░░░░░░░  em progresso
+C          █░░░░░░░░░░░░░░░░░░░  em progresso
 ```
 
 ---
@@ -34,6 +35,7 @@ SQL        ████████░░░░░░░░░░░░  em prog
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/960px-C_Programming_Language.svg.png" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
